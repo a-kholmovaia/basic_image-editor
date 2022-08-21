@@ -5,4 +5,4 @@ Basic functionality:
 - save the result by clicking on "Save image" button
 
 The interface:
-![img](basic_image-editor/example.png)
+![img](example.png)
