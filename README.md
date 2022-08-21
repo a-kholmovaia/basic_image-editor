@@ -5,4 +5,4 @@ Basic functionality:
 - save the result by clicking on "Save image" button
 
 The interface:
-![](https://ibb.co/D1Mr3mc)
+![image](https://ibb.co/D1Mr3mc)
