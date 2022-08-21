@@ -1,4 +1,4 @@
-A basic image editor. 
+An image editor. 
 Basic functionality:
 -   load the image
 -   adjust contrast, brightness and transparency 
